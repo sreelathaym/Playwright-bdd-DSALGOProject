@@ -1,0 +1,25 @@
+{
+  "cookies": [
+    {
+      "name": "csrftoken",
+      "value": "Rfzd11TS7OaHtzOBFZbBpKin9G0DpAub2V4kZrOfnSFpGYzTueE0OWgYQkizgIru",
+      "domain": "dsportalapp.herokuapp.com",
+      "path": "/",
+      "expires": 1749131223.554201,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "sessionid",
+      "value": "3gohybg2pd4i5bsgn0hdckr11jw5r4fu",
+      "domain": "dsportalapp.herokuapp.com",
+      "path": "/",
+      "expires": 1718891223.509301,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": []
+}
